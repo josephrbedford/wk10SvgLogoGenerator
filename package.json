@@ -1,0 +1,30 @@
+{
+  "name": "wk10svglogogenerator",
+  "version": "1.0.0",
+  "description": "## Your Task",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephrbedford/wk10SvgLogoGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephrbedford/wk10SvgLogoGenerator/issues"
+  },
+  "homepage": "https://github.com/josephrbedford/wk10SvgLogoGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
